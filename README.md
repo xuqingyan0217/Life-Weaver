@@ -16,8 +16,7 @@
 
 **视频功能展示**
 - 请点击链接观看：
-  - [▶️ 观看演示视频（MP4）](multi-agent/statics/life_weaver.mp4?raw=1)
-- 在本地或支持 HTML 的查看器中可使用内嵌播放器：
+  - [▶️ 观看演示视频（MP4）](multi-agent/statics/life_weaver.mp4)
   
 
 **快速开始**
