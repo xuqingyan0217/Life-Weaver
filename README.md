@@ -15,11 +15,10 @@
 ![前端页面示例](multi-agent/statics/example.png)
 
 **视频功能展示**
-- 内嵌预览（如未显示可点击下方链接）：
-  <video src="multi-agent/statics/life_weaver.mp4" controls width="720">
-    您的环境不支持视频播放。可直接下载查看：
-    <a href="multi-agent/statics/life_weaver.mp4">点击下载</a>
-  </video>
+- 请点击链接观看：
+  - [▶️ 观看演示视频（MP4）](multi-agent/statics/life_weaver.mp4?raw=1)
+- 在本地或支持 HTML 的查看器中可使用内嵌播放器：
+  
 
 **快速开始**
 - 启动后端：在项目根运行 `go run ./multi-agent/main.go`（默认 `http://localhost:8080/`）。
