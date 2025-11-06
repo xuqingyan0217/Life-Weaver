@@ -1,0 +1,25 @@
+# Life Weaver root .gitignore
+
+# Frontend (flow-web)
+flow-web/node_modules/
+flow-web/dist/
+
+# Backend (multi-agent)
+# 运行时上传文件目录，不需要纳入版本控制
+multi-agent/uploads/
+
+# Environment files（保留 .example.env，不忽略）
+.env
+.env.*
+
+# Editors/IDE configs
+.idea/
+.vscode/
+*.iml
+
+# Logs & OS-specific
+*.log
+Thumbs.db
+
+# Go/Windows build artifacts
+*.exe

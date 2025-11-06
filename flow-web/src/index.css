@@ -1,0 +1,25 @@
+/* Removed external Google Fonts import to avoid network timeouts */
+
+:root {
+  /* Fallback font stack (no external fetch) */
+  --font-sans: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --font-hand: cursive;
+  --font-pixel: cursive;
+}
+
+* { box-sizing: border-box; }
+
+html, body, #root { height: 100%; }
+
+body {
+  margin: 0;
+  background-color: #ffffff;
+  color: #222222;
+  font-family: var(--font-sans);
+}
+
+/* Links reset */
+a { color: inherit; text-decoration: none; }
+
+/* Buttons base */
+button { font-family: inherit; }
